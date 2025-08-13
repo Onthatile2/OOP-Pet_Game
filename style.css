@@ -1,8 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    background: pink;
     text-align: center;
     padding: 30px;
+    background: url(zookids.avif);
+    
 }
 
 h1 {
@@ -39,5 +40,12 @@ button {
     margin-top: 20px;
 }
 
+#navbar {
     
-    
+   padding: 17px;
+   text-align: center;
+   font-weight: bold;
+   letter-spacing: 1px;
+   color: white;
+   
+}   
